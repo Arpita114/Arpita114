@@ -121,6 +121,13 @@ B.Tech CSE Graduate • Python Developer • AI & Data Analytics Enthusiast • 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpita114&theme=tokyo-night&hide_border=true"/>
 </p>
 
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arpita114/Arpita114/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 
 
