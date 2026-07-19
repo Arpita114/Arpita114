@@ -35,3 +35,23 @@ B.Tech CSE Graduate • Python Developer • AI & Data Analytics Enthusiast • 
 - 📫 Reach me at: **garpita103@gmail.com**
 
 ---
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,firebase,mysql,mongodb,git,github,html,css,tailwind,vscode,postman&perline=6" />
+</p>
+## 📊 Data Analytics
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql&perline=8" />
+</p>
+
+<p align="center">
+
+| Excel | Power BI | Pandas | NumPy | Matplotlib | SQL |
+|-------|----------|---------|--------|------------|-----|
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+</p>
