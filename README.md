@@ -72,3 +72,44 @@ B.Tech CSE Graduate • Python Developer • AI & Data Analytics Enthusiast • 
 <img src="https://streak-stats.demolab.com?user=Arpita114&theme=tokyonight&hide_border=true"/>
 
 </p>
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">ResumeIQ AI</h3>
+
+<p align="center">
+
+<a href="https://github.com/Arpita114/remix_-resumeiq-ai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpita114&repo=remix_-resumeiq-ai&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">Customer Support AI</h3>
+
+<p align="center">
+
+<a href="https://github.com/Arpita114/customer-support-ai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpita114&repo=customer-support-ai&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
